@@ -1,2 +1,2 @@
-# Module_2_solution
+# module-2-solution
 html,css,javascript
